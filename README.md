@@ -8,7 +8,7 @@ I am a Java/Node.js Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I like to learn about AI.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/erick-rodríguez-hernandez)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ErickRH-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/erick-rodríguez-hernandez)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
