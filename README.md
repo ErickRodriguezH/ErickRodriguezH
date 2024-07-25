@@ -1,5 +1,7 @@
 ### Hello Lads!!, I'm Erick👋
 
+I am a Java/Node.js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
